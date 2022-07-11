@@ -8,12 +8,13 @@ I'm a 16-year-old self-taught developer and reverse enginner from Poland. Primar
 ##### Actively maintained:
 - [dnSpyEx](https://github.com/dnSpyEx/dnSpy) - Unofficial revival of the well known .NET debugger and assembly editor, dnSpy 
 ##### Rarely maintained:
-- [CawkVM Unpacker](https://github.com/ElektroKill/CawkVM-Unpacker) - A unpacking utility for the CawkVM protection scheme.
+- [CawkVM Unpacker](https://github.com/ElektroKill/CawkVM-Unpacker) - Unpacking utility for the CawkVM protection scheme.
 
 ### Contact:
 - **Discord**: ElektroKill#1949
 
 #### If you want to send me some volatile assets:
+* Bitcoin: `bc1q7wrny27k5a5t4p3ch9m344795sav0sdh93ca5g`
 * Ethereum: `0x7623Ed776459c291D8EAfE65c8a8e3A108F01D45`
 * Tron: `TFwjd42JjvMKpn69wjrs5PNsqax5yZnCUM`
 
