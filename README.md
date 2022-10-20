@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a 16-year-old self-taught developer and reverse enginner from Poland. Primarly interested in reverse engineering, low level .NET programming, and Minecraft modding.
+I'm a 16-year-old self-taught developer and reverse engineer from Poland. Primarly interested in reverse engineering, low level .NET programming, and Minecraft modding.
 
 [![ElektroKill's github stats](https://github-readme-stats.vercel.app/api?username=ElektroKill&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
