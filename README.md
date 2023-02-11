@@ -15,11 +15,6 @@ I'm a 16-year-old self-taught developer and reverse engineer from Poland. Primar
 - **Twitter**: [@ElektroKillDev](https://twitter.com/ElektroKillDev)
 - **E-Mail**: [elektrokilldev@protonmail.com](mailto:elektrokilldev@protonmail.com)
 
-#### If you wish to donate some volatile assets:
-* Bitcoin: `bc1q7wrny27k5a5t4p3ch9m344795sav0sdh93ca5g`
-* Ethereum/Ethereum Classic: `0x7623Ed776459c291D8EAfE65c8a8e3A108F01D45`
-* Tron: `TFwjd42JjvMKpn69wjrs5PNsqax5yZnCUM`
-
 ### Languages and Tools:
 <a href="https://docs.microsoft.com/dotnet/csharp/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
