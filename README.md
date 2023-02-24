@@ -9,6 +9,7 @@ I'm a 16-year-old self-taught developer and reverse engineer from Poland. Primar
 - [dnSpyEx](https://github.com/dnSpyEx/dnSpy) - Unofficial revival of the well known .NET debugger and assembly editor, dnSpy 
 ##### Rarely maintained:
 - [CawkVM Unpacker](https://github.com/ElektroKill/CawkVM-Unpacker) - Unpacking utility for the CawkVM protection scheme.
+- [ILPUnpack](https://github.com/ElektroKill/ILPUnpack) - Unpacking utility for ILProtector.
 
 ### Contact:
 - **Discord**: ElektroKill#1949
